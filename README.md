@@ -3,7 +3,7 @@
 
 # Olá! Eu sou Pedro Bidu
 
-- 💻 Sou um desenvolvedor Front-end.
+- 💻 Sou um web developer.
 - 👨‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 📅 Nascido em Setembro de 1998.
 - 🏡 Moro em Taguatinga - Distrito Federal.
