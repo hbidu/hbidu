@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/95511751/148078672-ef420596-27bc-4cfa-8447-d683cc51efb5.gif)
 
 
-# Olá! Eu sou Pedro Bidu
+# Olá! Eu sou Henrique Bidu
 
 - 💻 Sou um web developer.
 - 👨‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas.
